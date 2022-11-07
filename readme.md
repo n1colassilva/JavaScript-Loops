@@ -53,7 +53,7 @@ A loop usually goes until the condition gets false. But sometimes we like to int
 
 ### 1. for
 
-We use the for loop when we know how many iterations we will go through. Let's see the following example:
+We use the for loop when we know how many iterations we will loop through. Let's see the following example:
 
 ```js
 // for loop syntax
@@ -135,7 +135,7 @@ console.log(newArray)
 
 ### 2. while
 
-We use the while loop when we do not know how many iterations we will go through in advance.
+We use the while loop when we do not know how many iterations we will loop through in advance.
 
 ```js
 let count = prompt('Enter a positive number: ')
