@@ -36,7 +36,7 @@
 
 In programming we use different loops to carry out repetitive tasks. Therefore, loop can help us to automate tedious and repetitive task. JavaScript has also different types of loops which we can use to work on repetitive task.
 
-Imagine if your are asked to print Hello world one thousand times without a loop, it may take an hour or two to do this tedious task. However, using loop we can print it in less than a second.
+Imagine if your are asked to print Hello world one thousand times without a loop, it may take an hour or two to do this tedious task. However, using a loop we can print it in less than a second.
 
 Loops:
 
@@ -282,4 +282,4 @@ Python
 
 🎉 CONGRATULATIONS 🎉
 
-Now, you know everything you need to know about JavaScript loops.
+Now, you know everything you need to know about JavaScript loops!!!
